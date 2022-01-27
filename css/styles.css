@@ -160,7 +160,7 @@ Tertiary Color (Dark Green): #4a561b;
     margin-left: 15px;
  }
 
- /* About Page Stylings */
+ /* About & Contact Page Stylings */
  .about-info {
      text-align: center;
  }
@@ -169,17 +169,11 @@ Tertiary Color (Dark Green): #4a561b;
      list-style-type: none;
  }
 
- .about-table {
+ .about-table, .contact-page {
      margin-left: auto;
      margin-right: auto;
      text-align: center;
  }
-
- /* Contact page stylings */
-.contact-page {
-    margin-left: auto;
-    margin-right: auto;
-}
 
  /* Footer Stylings */
 

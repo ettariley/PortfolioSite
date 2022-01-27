@@ -194,7 +194,7 @@ button:focus, button:hover, .button:hover, .button:focus {
    margin-left: 15px;
 }
 
-/* About Page Stylings */
+/* About & Contact Page Stylings */
 .about-info {
     text-align: center;
 }
@@ -203,16 +203,10 @@ button:focus, button:hover, .button:hover, .button:focus {
     list-style-type: none;
 }
 
-.about-table {
+.about-table, .contact-page {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-}
-
-/* Contact page stylings */
-.contact-page {
-   margin-left: auto;
-   margin-right: auto;
 }
 
 /* Footer Stylings */
