@@ -190,10 +190,12 @@ Tertiary Color (Dark Green): #4a561b;
      grid-template-columns: 1fr 1fr 1fr;
      grid-gap: 20px;
      text-align: center;
+     margin-left: 20px;
+     margin-right: 20px;
  }
 
  .grid__item {
-     background-color: var(--secondary-color);
+     background-color: gray;
      padding: 5px;
  }
 

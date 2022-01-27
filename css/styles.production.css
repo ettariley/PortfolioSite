@@ -231,10 +231,12 @@ button:focus, button:hover, .button:hover, .button:focus {
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
     text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .grid__item {
-    background-color: #561b4a;
+    background-color: gray;
     padding: 5px;
 }
 
