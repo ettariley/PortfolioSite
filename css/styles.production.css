@@ -227,7 +227,7 @@ button:focus, button:hover, .button:hover, .button:focus {
 .grid {
     display: -ms-grid;
     display: grid;
-    -ms-grid-columns: 1fr 20px 1fr 20px 1fr;
+    -ms-grid-columns: 1fr auto 1fr auto 1fr;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
     text-align: center;
@@ -238,6 +238,42 @@ button:focus, button:hover, .button:hover, .button:focus {
 .grid__item {
     background-color: gray;
     padding: 5px;
+}
+
+.grid1 {
+    -ms-grid-row: 1;
+    -ms-grid-column: 1;
+    padding: 20px;
+}
+
+.grid2 {
+   -ms-grid-row: 1;
+   -ms-grid-column: 2;
+   padding: 20px;
+}
+
+.grid3 {
+   -ms-grid-row: 1;
+   -ms-grid-column: 3;
+   padding: 20px;
+}
+
+.grid4 {
+   -ms-grid-row: 2;
+   -ms-grid-column: 1;
+   padding: 20px;
+}
+
+.grid5 {
+   -ms-grid-row: 2;
+   -ms-grid-column: 2;
+   padding: 20px;
+}
+
+.grid6 {
+   -ms-grid-row: 2;
+   -ms-grid-column: 3;
+   padding: 20px;
 }
 
 /* Page Title Stylings */

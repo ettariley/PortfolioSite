@@ -199,6 +199,42 @@ Tertiary Color (Dark Green): #4a561b;
      padding: 5px;
  }
 
+ .grid1 {
+    -ms-grid-row: 1;
+    -ms-grid-column: 1;
+    padding: 20px;
+}
+
+.grid2 {
+   -ms-grid-row: 1;
+   -ms-grid-column: 2;
+   padding: 20px;
+}
+
+.grid3 {
+   -ms-grid-row: 1;
+   -ms-grid-column: 3;
+   padding: 20px;
+}
+
+.grid4 {
+   -ms-grid-row: 2;
+   -ms-grid-column: 1;
+   padding: 20px;
+}
+
+.grid5 {
+   -ms-grid-row: 2;
+   -ms-grid-column: 2;
+   padding: 20px;
+}
+
+.grid6 {
+   -ms-grid-row: 2;
+   -ms-grid-column: 3;
+   padding: 20px;
+}
+
  /* Page Title Stylings */
 
  .page-title {
