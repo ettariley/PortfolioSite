@@ -175,6 +175,12 @@ Tertiary Color (Dark Green): #4a561b;
      text-align: center;
  }
 
+ /* Contact page stylings */
+.contact-page {
+    margin-left: auto;
+    margin-right: auto;
+}
+
  /* Footer Stylings */
 
  .page-footer {
